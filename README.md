@@ -1,1 +1,3 @@
-# Effective_Text_Data_Preprocessing_Technique_for_Sentiment_Analysis_in_Social_Media_Data
+# Effective Text Data Preprocessing Technique for Sentiment Analysis in Social Media Data
+### Name: Kritarth Jain, Roll No: 1911020, Class: A, Course: RDBMS, 
+### Faculty Name: Vaibhav vasani and Pradnya Bhangale, College Name: KJSCE
